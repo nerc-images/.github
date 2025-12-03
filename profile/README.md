@@ -5,6 +5,7 @@ Below is an overview, technical information, installed packages, and how to get 
 
 | NERC Container Images | Description |
 | --- | --- |
+| [cuda-jupyter-pytorch](https://github.com/nerc-images/cuda-jupyter-pytorch) | A Jupyter OpenShift AI Image with PyTorch and CUDA for GPUs. |
 | [cuda-jupyter-tensorflow](https://github.com/nerc-images/cuda-jupyter-tensorflow) | A Jupyter OpenShift AI Image with Tensorflow and CUDA for GPUs. |
 | [jupyter-cpp-cling](https://github.com/nerc-images/jupyter-cpp-cling) | An OpenShift AI Image running Jupyter Lab for C++ development. |
 | [jupyter-rust](https://github.com/nerc-images/jupyter-rust) | An OpenShift AI Image running Jupyter Lab for Rust development. |
